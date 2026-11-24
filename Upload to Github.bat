@@ -1,6 +1,5 @@
 @echo off
 
-REM Ссылка на GitHub репозиторий
 set REPO_URL=https://github.com/danil432152-droid/test-1.git
 
 git remote remove origin
